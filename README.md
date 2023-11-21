@@ -23,3 +23,8 @@
 - Classes e funções
 - Classes e métodos
 - Herança
+
+## Python ná prática
+-
+-
+-
