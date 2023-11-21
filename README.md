@@ -1,4 +1,5 @@
 # A jornada do programa
+- Ciclo de vida de uma programa
 - Variáveis
 - Expressões e instruções
 
